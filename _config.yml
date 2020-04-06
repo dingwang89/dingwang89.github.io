@@ -1,8 +1,8 @@
 # Site settings
-title: Ding Wang
-email: your-email@domain.com
+title: Dr. Ding Wang dafuck
+email: ding.w9911@gmail.com
 url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "dhsakdlajs Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: LastName FirstName
@@ -23,6 +23,14 @@ contact: static
 # https://help.disqus.com/customer/portal/articles/466208
 disqus_shortname: myshortname
 
+# Publications section settings
+theme:      tale
+permalink:  /:year-:month-:day/:title
+paginate:   5
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
+
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 18bc9c #80B3FF
@@ -40,15 +48,11 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://twitter.com/justaturbo
+  - title: linkedin
+    url: https://www.linkedin.com/in/dingwanguk/
+  - title: instagram
+    url: https://www.instagram.com/dngwng/
 
 # Postal address (add as many lines as necessary)
 address:
