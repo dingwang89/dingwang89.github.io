@@ -2,11 +2,16 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: submarine.png
 alt: image-alt
-project-date: April 2014
+project-date: Jul. 2017 - Sept. 2017
+title: Morden Work Practice
+organisation: Microsoft Research Cambridge, Microsoft UK
+Team: Ding Wang, Sean Rintel, Kenton O'Hara
+Core Techniques: Ethnographic interview, In-situ observation, Thematic Analysis
+Research Outcome: Internal report (in both written and presentation formats) which has informed the design and development of the product
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+categories: ['projects']
+description: The ‘Modern Work Practice’ was my research internship project with Microsoft Research Cambridge Human Experience and Design group. This research project focused on understanding how technologies such as video mediated technology, productivity tools and instant messages are used at work places to produce both practical and tacit knowledge. We looked at how people use these technologies within the context of their work in order to understand when, where and how the knowledge of their work is generated, shared and stored both individually and collectively. We specifically focused on the role of the technology in the knowledge production at work places and how the use of technology have impacted work practice. Our research also set out to understand the gaps in current Microsoft products and which needs are prevalent for consumers.
 
 ---
