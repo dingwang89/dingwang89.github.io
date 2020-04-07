@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 10
+date: 2014-07-15
+img: submarine.png
+alt: image-alt
+project-date: Oct. 2014 - Jan. 2015
+title: FAITH Project Evaluation
+Affiliation: Lancaser University, London UK
+Team: Ding Wang, Bran Knowles, Advised by: Mark Rouncefield
+Core Techniques: Secondary research, Qualitative data synthesis, concept modelling
+Research Outcome: Research paper (Models and patterns of trust), Client report (in both written and video formats)
+client: InTouch
+categories: ['projects']
+description: In Touch was finalising a collaborative Research and Development project called ‘FAITH’. The FAITH project aimed to develop a digital system which captures and feeds back all required data in order to reduce the cost associated with inspections. The key objective of FAITH was to ensure that anyone who has to communicate with the councils and their contractors receives accurate and up to date information which can be trusted. The research I focused on was to evaluate and revise an original conceptual model of trust by referencing to a large body of ethnographic fieldwork on everyday work in the highways maintenance sector.  
+
+---

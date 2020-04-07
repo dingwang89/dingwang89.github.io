@@ -2,11 +2,15 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: submarine.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: Feb. 2018 - Jul. 2018
+title: Sustainability in Makerspaces
+Affiliation: Royal College of Art, London UK
+Team: Ding Wang & Hannah Stewart
+Core Techniques: Ethnographic interview, In-situ observation, Thematic Analysis, Comparison studies
+Research Outcome: Internal reports
+categories: ['projects']
+description: Sustainability in Makerspaces is a design consultancy research aimed to understand how sustainability as a complicated concept is understood, approached and handled in makerspaces in both China and UK. For the fieldwork, Hannah and I conducted observation according to the same protocol and interviews with same questions in the UK and China simultaneously in order to maintain a systematic approach while dealing with two drastically different contexts. Another primary goal of this research is to study what current sustainability concerns and challenges are for people from different groups including makerspace managers and operators, makers or users of these  makerspace and to people in the supply chain for makerspaces in both countries.  
 
 ---

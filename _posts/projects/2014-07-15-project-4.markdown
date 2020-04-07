@@ -6,11 +6,11 @@ img: submarine.png
 alt: image-alt
 project-date: Jul. 2017 - Sept. 2017
 title: Morden Work Practice
-organisation: Microsoft Research Cambridge, Microsoft UK
+Affiliation: Microsoft Research Cambridge
 Team: Ding Wang, Sean Rintel, Kenton O'Hara
 Core Techniques: Ethnographic interview, In-situ observation, Thematic Analysis
 Research Outcome: Internal report (in both written and presentation formats) which has informed the design and development of the product
-client: Start Bootstrap
+client: Microsoft Internal UK
 categories: ['projects']
 description: The ‘Modern Work Practice’ was my research internship project with Microsoft Research Cambridge Human Experience and Design group. This research project focused on understanding how technologies such as video mediated technology, productivity tools and instant messages are used at work places to produce both practical and tacit knowledge. We looked at how people use these technologies within the context of their work in order to understand when, where and how the knowledge of their work is generated, shared and stored both individually and collectively. We specifically focused on the role of the technology in the knowledge production at work places and how the use of technology have impacted work practice. Our research also set out to understand the gaps in current Microsoft products and which needs are prevalent for consumers.
 

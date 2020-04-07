@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 11
+date: 2014-10-18
+img: submarine.png
+alt: image-alt
+project-date: Feb. 2018 - Jul. 2018
+title: Quantified Self
+Affiliation: University of Dundee, Dundee UK
+Team: Ding Wang, Joyce Lee, Fernando Galdino, Advised by: Cat Macaulay
+Core Techniques: Secondary research, In-depth interviews, Cultural probe, Focus group, Survey, Ideation workshop
+Research Outcome: Client report (in both written and video formats)
+client: Microsoft Research
+categories: ['projects']
+description: In this MSc Design Ethnography project, we were working in conjunction with the Microsoft Office Envisioning team to explore self-tracking behaviour, and the meaning of ‘self’ and ‘quantification’ in the sociocultural context of Brazil. This is part of a bigger project where other teams studied quantified self movement in China, India and Europe. In the end of this project I was in charge of organising the ideation workshop where we came together to compare and contrast how people from different sociocultural context approached self-tracking and the securities issues such as privacy and trust differently.   
+
+---

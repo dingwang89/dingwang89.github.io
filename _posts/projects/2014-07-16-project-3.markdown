@@ -1,12 +1,16 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
+date: 2014-07-15
+img: submarine.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: Nov. 2014 - Feb. 2018
+title: Unpacking the Smart City Discourse (Doctoral Thesis )
+Affiliation: Lancaster University, Lancaster UK
+Team: Ding Wang, Advised by: Nick Dunn, Paul Coulton, Mark Rouncefield
+Core Techniques: Ethnographic interview, Observation, Thematic Analysis, Foucauldian Analysis
+Research Outcome: Doctoral thesis and Research Papers (HCI, Policy and the Smart City; Foucault and the City; Cities of Otherness: the smart city as a heterotopia)
+categories: ['projects']
+description: Unpacking the smart city is a brief summary of my doctoral thesis project which explores the discourses of smart cities. I am especially interested in how these discourses affect smart city research practices and knowledge production in academic institutions, industry research and development context as well as in policy making process. Through a Foucauldian perspective, I have mapped out the trajectory of how experts produced knowledge of the smart cities and how this knowledge production process helped them to establish power and subjectivity.
 
 ---

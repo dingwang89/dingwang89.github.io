@@ -2,17 +2,17 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: submarine.png
+img: safe.png
 alt: image-alt
 project-date: Feb. 2019 - Jan. 2020
 title: Chat in Healthcare_WeChat for Patient Outreach
-organisation: Microsoft Research India
+Affiliation: Microsoft Research India
 Team: Ding Wang, Santosh Kale, Jacki O'Neill
 Core Techniques: Ethnography, In-situ observation, Interviews , Thematic analysis, Iterative design, Prototype
 Research Outcome: Internal report (in both written and presentation formats), research paper (Please call the specialism CHI 2020) and a new research project focused on extending patient outreach via chat
-client: Start Bootstrap
+client: An IVF clinic and a maternity ICU from two proviencial level hospitals in China
 categories: ['projects']
 description: Chat in Healthcare is the major research theme we have been investigating since the start of my post-doc research. In this project, we examine how WeChat is adopted to support nurse- patient communication in an IVF clinic in China. In this setting, the biggest challenge to delivering high-quality patient­ centred care is the large number of patients. To compensate for such minimal in-person consultation between nurses and patients during the appointments, nurse-facilitated patient groups were created on WeChat, to extend medical care and facilitate peer support. Through an ethnographic study, we examined how these groups fit into the clinic’s communication ecosystem, and the challenges they raise for nurse-facilitators who receive thousands of messages daily. We proposed a set of design suggestions aiming to make the work of the nurse-facilitator easier and more effective and designed a <a href="https://xd.adobe.com/view/a9153651-b406-483c-4fe3-33c9d5cb08e3-df24/">mock-up prototype</a> of what the interface would look like.
-In a <a href="https://www.microsoft.com/en-us/research/blog/extending-the-reach-of-care-tending-to-patients-using-chat-app-technology/?OCID=msr_blog_chatapp_CHI_tw">Mcirosoft Research</a> blog, I introduce this project in more detail and the direction of future work.
+In a Microsoft Research blog, I introduce this project in more detail and the direction of future work.
 
 ---
