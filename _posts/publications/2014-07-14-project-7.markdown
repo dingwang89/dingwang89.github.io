@@ -2,11 +2,82 @@
 layout: default
 modal-id: 7
 date: 2014-07-14
-img: safe.png
+<!-- comment out unnecessary information in publications
+<img: safe.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+client: Start Bootstrap>
+-->
 categories: ['research']
-title: blu blah ding
+
+title: Please call the specialism: Using WeChat to Support Patient Care in China
+description: Wang, D., Kale, S., O’Neill, J., in CHI’20 Proceedings, Up-coming
+type: Conference Proceedings
+tags: Chat Apps, Healthcare, Patient Outreach
+link: <a href="https://www.researchgate.net/publication/340527190_Please_call_the_specialism_Using_WeChat_to_support_patient_care_in_China">Download Publication</a>
+
+title: Making Chat at Home in the Hospital: Exploring Chat Use by Nurses
+description: Karusala, N., Wang, D., O’Neill, J., in CHI’20 Proceedings, Up-coming
+type: Conference Proceedings
+tags: Chat Apps, Healthcare, Nurses Work
+link: <a href="https://www.researchgate.net/publication/340527416_Making_Chat_at_Home_in_the_Hospital_Exploring_Chat_Use_by_Nurses">Download Publication</a>
+
+title: Lickable Cities: Lick Everything in Sight and on Site
+description: Hohnekamp-Bruggemann, M., Thomas, V., & Wang, D. (2018). Lickable Cities: Lick Everything in Sight and on Site. In CHI EA '18 Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems [alt06] ACM. https://doi.org/10.1145/3170427.3188399
+type: Conference Proceedings
+link: <a href="https://www.researchgate.net/publication/324669167_Lickable_Cities_Lick_Everything_in_Sight_and_on_Site">Download Publication</a>
+
+title: Not a dashboard, not a sandcastle: unpacking the smart city discourse
+description: Wang, D. (2018). Not a dashboard, not a sandcastle: unpacking the smart city discourse. Lancaster University. https://doi.org/10.17635/lancaster/thesis/342
+type: Doctoral Thesis
+tags: Smart Cities, Ethnography, Foucauldian Approaches
+link: <a href="http://www.research.lancs.ac.uk/portal/en/publications/not-a-dashboard-not-a-sandcastle(feea0d14-11ed-4b98-896e-c1cba76d47a4).html">Download Publication</a>
+
+title: Foucault and the smart city
+description: Wang, D. (2017). Foucault and the smart city. The Design Journal, 20(Suppl. 1), S4378-S4386. https://doi.org/10.1080/14606925.2017.1352934
+type: Journal Article
+tags: Smart Cities, Foucault, Discursive Formation, Critical Thinking
+link: <a href="https://www.researchgate.net/publication/319560028_Foucault_and_the_smart_city">Download Publication</a>
+
+title: Cities of otherness: the smart city as a heterotopia
+description: Wang, D. (2017). Cities of otherness: the smart city as a heterotopia. In Proceedings of 15th European Conference on Computer-Supported Cooperative Work - Exploratory Papers (pp. 256-273). EUSSET digital library. https://doi.org/10.18420/ecscw2017-11
+type: Conference Proceedings
+tags: Smart Cities, Foucault, Heterotopia
+link: <a href="https://www.researchgate.net/publication/318020123_Cities_of_Otherness_the_smart_city_as_a_heterotopia">Download Publication</a>
+
+title: What is open design for ethnography?: an open discussion
+description: Wang, D., & Thomas, V. (2017). What is open design for ethnography? an open discussion. In Cumulus Hong Kong 2016 (pp. 492-497). <!-- hyperlink to the paper needed here -->
+type: Conference Proceedings
+tags: Ethnography, Methodology
+link: <a href="https://www.researchgate.net/publication/318020229_What_is_open_design_for_ethnography_an_open_discussion">Download Publication</a>
+
+title: HCI policy and the smart city
+description: Wang, D. (2016). HCI policy and the smart city. In Proceedings of British HCI 2016 Conference Fusion, Bournemouth, UK BCS Learning and Development Limited. https://doi.org/10.14236/ewic/HCI2016.35
+type: Conference Proceedings
+tags: Smart Cities, Policy, HCI
+link: <a href="https://www.researchgate.net/publication/305790108_HCI_Policy_and_the_Smart_City">Download Publication</a>
+
+title: Where's Wally?: in search of citizen perspectives on the smart city
 description: Thomas, V., Wang, D., Mullagh, L., & Dunn, N. (2016). Where’s Wally? In search of citizen perspectives on the smart city. Sustainability, 8(3), 207.
+type: Journal Article
+tags: Smart Cities, Participation, Community-based Development, Local Knowledge
+link: <a href="https://www.researchgate.net/publication/297615027_Where's_Wally_In_Search_of_Citizen_Perspectives_on_the_Smart_City">Download Publication</a>
+
+title: Grassroots maker spaces: a recipe for innovation?
+description: Wang, D., Dunn, N., & Coulton, P. (2015). Grassroots maker spaces: a recipe for innovation? In EAD 2015
+type: Conference Proceedings
+tags: Makerspaces, Maker Movement, Community Space, Innovation
+link: <a href="https://www.researchgate.net/publication/304919436_Grassroots_Maker_Spaces_A_Recipe_For_Innovation">Download Publication</a>
+
+title: Models and patterns of trust
+description: Knowles, B., Rouncefield, M., Harding, M., Davies, N., Blair, L., Hannon, J., Walden, J., & Wang, D. (2015). Models and patterns of trust. In CSCW '15 Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing (pp. 328-338). ACM. https://doi.org/10.1145/2675133.2675154
+type: Conference Proceedings
+tags: Trust, Distributed Work
+link: <a href="https://www.researchgate.net/publication/300917795_Models_and_Patterns_of_Trust">Download Publication</a>
+
+title: TouchPoints: an exertion game with strategy
+description: Heshimian, Y., & Wang, D. (2014). TouchPoints: an exertion game with strategy. In CHI PLAY '14 Proceedings of the first ACM SIGCHI annual symposium on Computer-human interaction in play (pp. 419-420). ACM. https://doi.org/10.1145/2658537.2661313
+type: Conference Proceedings
+tags: Exertion Game, Rehabilitation, Game Design
+
 ---
