@@ -1,39 +1,87 @@
 ---
 layout: post
 ---
+<html>
+{% include head.html %}
+{% include nav.html %}
 
-<div class="post">
-  <div class="post-info">
-    <span>Written by</span>
-    {% if page.author %}
-        {{ page.author }}
-    {% else %}
-        {{ site.author.name }}
-    {% endif %}
+<body>
+  <!-- <div class="container">
+    <div class="post-info">
+      <span>Written by</span>
+      {% if page.author %}
+      {{ page.author }}
+      {% else %}
+      {{ site.author.name }}
+      {% endif %}
 
-    {% if page.date %}
+      {% if page.date %}
       <br>
       <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
-    {% endif %}
-  </div>
+      {% endif %}
+    </div>
 
-  <h1 class="post-title">{{ page.title }}</h1>
-  <div class="post-line"></div>
+    <h1 class="post-title">{{ page.title }}</h1>
+    <div class="post-line"></div>
 
-  {{ content }}
-</div>
+    {{ content }}
+  </div> -->
+  <section id="publications" style="margin-top: 50px;">
+    <div class="container">
+      <noscript>
+        <style>
+          #bibtex {
+            display: block;
+          }
+        </style>
+      </noscript>
 
-{% if page.comments %}
-  {% include disqus_comments.html %}
-{% endif %}
+      <table id="pubTable" class="display"></table>
+      <pre id="bibtex">
+  @article{Karavirta:JVLCTaxonomy,
+   title = {A comprehensive taxonomy of algorithm animation languages},
+   journal = {Journal of Visual Languages \& Computing},
+   volume = {20},
+   number = {1},
+   pages = {1--22},
+   year = {2010},
+   issn = {1045-926X},
+   doi = {DOI: 10.1016/j.jvlc.2009.09.001},
+   author = {Ville Karavirta and Ari Korhonen and Lauri Malmi and Thomas Naps}  
+  }
 
-<div class="pagination">
-  {% if page.next.url %}
-    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
-  {% endif %}
-  {% if page.previous.url %}
-    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
-  {% endif %}
+  @inproceedings{Karavirta:VilleExerciseFramework,
+    author = {Ville Karavirta and Riku Haavisto and Erkki Kaila and Mikko-Jussi Laakso and Teemu Rajala and Tapio Salakoski},
+    title = {Interactive Learning Content for Introductory Computer Science Course Using the ViLLE Exercise Framework},
+    booktitle = {Proceedings of the 2015 International Conference on Learning and Teaching in Computing and Engineering},
+    series = {LATICE '15},
+    year = {2015},
+    isbn = {978-1-4799-9967-5},
+    pages = {9--16},
+    numpages = {8},
+    url = {http://dx.doi.org/10.1109/LaTiCE.2015.24},
+    doi = {10.1109/LaTiCE.2015.24},
+    publisher = {IEEE Computer Society},
+    address = {Washington, DC, USA},
+    keywords = {online learning, automatic assessment, ville, learning environments, programming education}
+   }
+   
+      </pre>
 
-  <a href="#" class="top">Top</a>
-</div>
+      <script type="text/javascript">
+        var init = function () {
+          bibtexify("#bibtex", "pubTable", {});
+        };
+        if (window.addEventListener) {
+          window.addEventListener('load', init, false);
+        } else if (window.attachEvent) {
+          window.attachEvent('onload', init);
+        }
+      </script>
+    </div>
+  </section>
+</body>
+{% include footer.html %}
+{% include js.html %}
+
+</html>

@@ -7,6 +7,10 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 categories: ['research']
-title: blu blah ding
-description: Thomas, V., Wang, D., Mullagh, L., & Dunn, N. (2016). Where’s Wally? In search of citizen perspectives on the smart city. Sustainability, 8(3), 207.
+title: 'Please call the specialism: Using WeChat to Support Patient Care in China'
+description: Wang, D., Kale, S., O’Neill, J., in CHI’20 Proceedings, Up-coming
+type: Conference Proceedings
+tags: Chat Apps, Healthcare, Patient Outreach
+link: https://www.researchgate.net/publication/340527190_Please_call_the_specialism_Using_WeChat_to_support_patient_care_in_China
+
 ---
