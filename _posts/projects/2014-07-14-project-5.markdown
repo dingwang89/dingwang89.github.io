@@ -2,15 +2,15 @@
 layout: default
 modal-id: 5
 date: 2014-07-15
-img: submarine.png
+img: game.png
 alt: image-alt
 project-date: Feb. 2019 - Jan. 2020
-title: 'Chat in Healthcare: WhatApp in Indian hospitals'
-organisation: Microsoft Research India
-team: Ding Wang, Naveena Kalasura (University of Washington), Jacki O'Neill
-core-techniques: Ethnography, In-situ observation, Interviews, Focus group, Thematic analysis
-outcome: External report, Internal report (in both written and presentation formats) and research paper (Making Chat at Home in the Hospital CHI 2020)
-client: Start Bootstrap
+title: Chat in Healthcare_WhatApp in Indian hospitals
+Affiliation: Microsoft Research India
+Team: Ding Wang, Naveena Kalasura (University of Washington), Jacki O'Neill
+Core Techniques: Ethnography, In-situ observation, Interviews, Focus group, Thematic analysis
+Research Outcome: External report, Internal report (in both written and presentation formats) and research paper (Making Chat at Home in the Hospital CHI 2020)
+client: One major leading hospital chain in India
 categories: ['projects']
 description: 
 

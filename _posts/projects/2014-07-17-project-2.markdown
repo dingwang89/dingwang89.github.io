@@ -2,11 +2,16 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: circus.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: Feb. 2018 - Jul. 2018
+title: HoSEM: Household-Supplier Energy Market
+Affiliation: University of Bristol
+Team: Ding Wang, Jordan Murkin, Ruzanna Chitchyan
+Core Techniques: Ethnographic interview, Thematic analysis, Policy analysis and Multi-stakeholder workshop
+Research Outcome: Internal reports
+client: Energy de France
+categories: ['projects']
+description: This project envisions a renewable energy future where free trade between micro-generators is enabled through a peer-to-peer (P2P) energy market. In the first phase of this project, we conducted a landscape study with different market players in the current energy market in UK taking part in the renewable energy generating and trading. Through the understanding and examinations of the current challenges and opportunities in policy, infrastructure, and technology, a novel technical platform to support P2P household-level energy trading is proposed.
 
 ---
